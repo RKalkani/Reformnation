@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:reformnation="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_settings"
+        reformnation:showAsAction="never"
+        android:icon="@drawable/ic_menu_moreoverflow_normal_holo_light"
+        android:title="@string/action_settings"/>
+
+
+</menu>

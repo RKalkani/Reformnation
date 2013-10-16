@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reform\'n\'ation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search</string>
+    <string name="title_activity_splash">Reformnation</string>
+    <string-array name="heading">
+        <item>Women Harassment</item>
+        <item>Child Labour</item>
+        <item>Female Foeticide</item>
+        <item>Food Wastage</item>
+        <item>Terrorism</item>
+    </string-array>
+    <string-array name="data">
+        <item>One data</item>
+        <item>two data</item>
+        <item>three data</item>
+        <item>four data</item>
+    </string-array>
+
+</resources>
